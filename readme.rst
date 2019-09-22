@@ -2,7 +2,9 @@
 RESTFULL Aplikasi Pembayaran SKS
 ###################
 
-RESTFULL API untuk project mobile-proto-sks. mengambil base api milik `chriskacerguis <https://github.com/chriskacerguis/codeigniter-restserver.git>`
+RESTFULL API untuk project mobile-proto-sks. mengambil base api milik 
+`chriskacerguis
+<https://github.com/chriskacerguis/codeigniter-restserver.git>`_.
 
 *******************
 Release Information
